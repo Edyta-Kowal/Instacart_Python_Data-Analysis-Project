@@ -14,7 +14,7 @@ Conduct an in-depth data analysis of the company's data. This analysis will prov
 ## Data 
 The project was based on open-source data made available online by Instacart:  
 'The Instacart Online Grocery Shopping Dataset 2017' which was accessed from www.instacart.com/datasets/grocery-shopping- 2017 via Kaggle*.  
-For my analysis, I utilized the following datasets: 'orders', products' 'orders_products_prior' 'departments‘ and 'customers'.  
+For my analysis, I utilized the following datasets: 'orders', products' 'orders_products_prior' 'departments‘ and 'customers'.    
 *Please note, the customer data, as well as the 'prices' column in the products dataset, were both fabricated for educational purposes
 
 ## Folders
@@ -23,5 +23,5 @@ For my analysis, I utilized the following datasets: 'orders', products' 'orders_
 02 Data* - Oryginal data, Prepared data  
 03 Scripts - Python scripts  
 04 Analysis - Excel Tables, Visualizations  
-05 Sent to client - Final report  
+05 Sent to client - Final report    
 *Please note, folder not included
