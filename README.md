@@ -12,9 +12,9 @@ Instacart's primary goal is to refine its marketing approach by targeting variou
 Conduct an in-depth data analysis of the company's data. This analysis will provide insights into customer behaviors, purchase patterns, and preferences. By providing actionable insights, I aim to assist the company in refining its marketing strategies and optimizing its approach to target diverse customer profiles effectively.
 
 ## Data 
-The project was based on open-source data made available online by Instacart:
-'The Instacart Online Grocery Shopping Dataset 2017' which was accessed from www.instacart.com/datasets/grocery-shopping- 2017 via Kaggle*.
-For my analysis, I utilized the following datasets: 'orders', products' 'orders_products_prior' 'departments‘ and 'customers'.
+The project was based on open-source data made available online by Instacart:  
+'The Instacart Online Grocery Shopping Dataset 2017' which was accessed from www.instacart.com/datasets/grocery-shopping- 2017 via Kaggle*.  
+For my analysis, I utilized the following datasets: 'orders', products' 'orders_products_prior' 'departments‘ and 'customers'.  
 *Please note, the customer data, as well as the 'prices' column in the products dataset, were both fabricated for educational purposes
 
 ## Folders
