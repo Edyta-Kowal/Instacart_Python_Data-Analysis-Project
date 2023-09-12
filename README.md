@@ -23,5 +23,5 @@ For my analysis, I utilized the following datasets: 'orders', products' 'orders_
 02 Data* - Oryginal data, Prepared data  
 03 Scripts - Python scripts  
 04 Analysis - Excel Tables, Visualizations  
-05 Sent to client- Final report  
+05 Sent to client - Final report  
 *Please note, folder not included
