@@ -1,6 +1,6 @@
 # Instacart_Python_Data-Analysis-Project
 
-Please note, This project was created as part of the 'Python fundamentals for Data Analysts' course in the CareerFoundry Data Analyst program.
+Please note, this project was created as part of the 'Python fundamentals for Data Analysts' course in the CareerFoundry Data Analyst program.
 
 ## Context:
 Instacart is an established online grocery store that operates through a user-friendly app. With a strong track record of sales, Instacart aims to enhance its understanding of sales patterns by conducting initial data and exploratory analysis. This analysis will help uncover valuable insights and recommend strategies for more effective customer segmentation.
