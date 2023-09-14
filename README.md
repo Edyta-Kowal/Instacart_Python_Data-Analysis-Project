@@ -9,7 +9,7 @@ Instacart is an established online grocery store that operates through a user-fr
 Instacart's primary goal is to refine its marketing approach by targeting various customer segments with tailored campaigns. The company recognizes that one-size-fits-all strategies are not optimal and seeks to optimize its marketing efforts based on data-driven insights.
 
 ## Objective:
-Conduct an in-depth data analysis of the company's data. This analysis will provide insights into customer behaviors, purchase patterns, and preferences. By providing actionable insights, I aim to assist the company in refining its marketing strategies and optimizing its approach to target diverse customer profiles effectively.
+Conduct an in-depth data analysis of the company's data to provide insights into customer behaviors, purchase patterns, and preferences. By providing actionable insights, I aim to assist the company in refining its marketing strategies and optimizing its approach to target diverse customer profiles effectively.
 
 ## Data 
 The project was based on open-source data made available online by Instacart:  
